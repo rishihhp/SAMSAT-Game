@@ -1,0 +1,6 @@
+compromisedLevel = 0
+attackerDamage = 10
+defenderDefense = 5
+defenderBudget = 1000
+toolCost = 200
+locations = "sectorOne","sectorTwo","sectorThree"
